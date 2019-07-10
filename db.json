@@ -1,0 +1,11 @@
+tabs: [{
+tabId: '3233'
+tabName: 'randomName1',
+tabContent: 'content'
+},
+{
+tabId: '323443'. //always unique
+tabName: 'randomName2',
+tabContent: 'content'
+}
+]
