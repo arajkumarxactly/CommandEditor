@@ -1,11 +1,24 @@
-'tabs': [{
-'tabId': '3233'
-'tabName': 'randomName1',
-'tabContent': 'content'
-},
-{
-'tabId': '323443'. //always unique
-'tabName': 'randomName2',
-'tabContent': 'content'
-}
+"tabs": [
+	{
+		"tabId": "3233324",
+		"tabName": "tab1",
+		"tabContent": "content for tab1"
+	},
+	{
+		"tabId": "323443", 
+		"tabName": "tab2",
+		"tabContent": "content for tab2"
+	},
+	{
+		"tabId": "32344233", 
+		"tabName": "Tab3",
+		"tabContent": "content for tab3"
+	},
+	{
+		"tabId": "323442313", 
+		"tabName": "content for tab4",
+		"tabContent": "content"
+	}
+
+
 ]
